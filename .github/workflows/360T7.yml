@@ -4,15 +4,15 @@ env:
   TZ: Asia/Shanghai
   DOWNLOAD: 8
   NPROC: 0
-  Vanilla: true
+  Vanilla: false
   ENVIRONMENT: true
-  FAST: true
-  SSH: tru
-  VanillaUboot: tru 
-  PLUGINver: true
-  Release: true
-  LanzhouYun: true
-  OneDrive: true
+  FAST: false
+  SSH: false
+  VanillaUboot: false 
+  PLUGINver: false
+  Release: false
+  LanzhouYun: false
+  OneDrive: false
 
 on:
   workflow_dispatch:
