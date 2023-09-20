@@ -10,7 +10,7 @@ env:
   SSH: false
   VanillaUboot: false 
   PLUGINver: false
-  Release: false
+  Release: true
   LanzhouYun: false
   OneDrive: false
 
